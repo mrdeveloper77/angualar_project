@@ -1,0 +1,5 @@
+NVM: Node Version Manager for windows -- npm and node.js: https://docs.microsoft.com/en-us/windows/dev-environment/javascript/nodejs-on-wsl
+WSL: https://docs.microsoft.com/en-us/windows/wsl/install
+	additional distributions
+	wsl --install -d <Distribution Name>
+	wsl --set-default-version <Version#>, replacing <Version#> with either 1 or 2.
